@@ -12,7 +12,7 @@ Este diagrama de flujo calcula el promedio de 3 números ya definidos.
 3.- Imprime el resultado de la división de la suma de los tres números dividido entre tres.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/workspaceICI/promedio3num%20EJ%201.png)
+![promedio3num EJ 1](https://github.com/ChristianDavSS/Portafolio/assets/145722756/fa5752fc-ead7-4550-9d5d-55bc3294d8fe)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%201.png)
+![Prueba de escritorio 1](https://github.com/ChristianDavSS/Portafolio/assets/145722756/260fcc2f-d4c2-49fb-afa4-274439c4a883)
