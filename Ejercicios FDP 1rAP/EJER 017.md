@@ -14,7 +14,7 @@ ANALISIS:
 5.- Se va a pasar al switch o match, donde dependiendo el numero que se ingresó anteriormente será la operacion que se realizará imprimiendose en pantalla.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/calculadorafuncional%20EJ%2017.png)
+![calculadorafuncional EJ 17](https://github.com/ChristianDavSS/Portafolio/assets/145722756/928d2214-2bd5-4f00-bf3c-53be41e02ad8)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%2017.png)
+![Prueba de escritorio 17](https://github.com/ChristianDavSS/Portafolio/assets/145722756/684e37d9-da03-4854-8c93-062673735cf0)
