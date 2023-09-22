@@ -6,7 +6,7 @@ ANALISIS:
 Este diagrama de flujo generará automaticamente la serie de 0´s y 1´s de manera infinita sin que tengamos que ingresar nada. No parará ya que no hay algo que lo pare.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/serie0y1%20infinito%20EJ%2013.png)
+![serie0y1 infinito EJ 13](https://github.com/ChristianDavSS/Portafolio/assets/145722756/e76b607a-30a6-4559-becb-f381282b2523)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%2013.png)
+![Prueba de escritorio 13](https://github.com/ChristianDavSS/Portafolio/assets/145722756/2c34ab6e-4aa8-4947-99e4-e4c4dc03d966)
