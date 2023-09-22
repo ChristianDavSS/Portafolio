@@ -10,7 +10,7 @@ ANALISIS:
 3.- Una vez se tome el camino del numero, se imprimirá lo que corresponde.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/numerodiadelasem%20EJ%2015.png)
+![numerodiadelasem EJ 15](https://github.com/ChristianDavSS/Portafolio/assets/145722756/af744a8a-eb80-4208-b925-9552a6f87a02)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%2015.png)
+![Prueba de escritorio 15](https://github.com/ChristianDavSS/Portafolio/assets/145722756/27451a19-6fed-40f9-a85d-21a58e49e776)
