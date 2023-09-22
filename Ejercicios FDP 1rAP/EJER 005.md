@@ -14,7 +14,7 @@ ANALISIS:
 5.- Ya al haber pasado los 25 alumnos, se nos imprimirá en pantalla el contador de alumnos aprobados, descartando así a los que sacaron menos de 7.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/alumnos_aprobados%20EJ%205.png)
+![alumnos_aprobados EJ 5](https://github.com/ChristianDavSS/Portafolio/assets/145722756/e35da66d-2c50-48bb-b3b3-42d06593c004)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%205.png)
+![Prueba de escritorio 5](https://github.com/ChristianDavSS/Portafolio/assets/145722756/62735d45-1735-41c6-826b-4624d8b0fc90)
