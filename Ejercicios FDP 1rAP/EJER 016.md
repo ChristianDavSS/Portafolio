@@ -18,7 +18,7 @@ Este diagrama de flujo calcula la cantidad de productos que Brankos vendió a ci
 6.- Cuando no se cumpla, vamos a relalizar la suma de todos los contadores que estaban en los 4 caminos de pedidos, y se nos va a imprimir en pantalla cuantos productos fueron vendidos.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/Brankos_ventas%20EJ%2016.png)
+![Brankos_ventas EJ 16](https://github.com/ChristianDavSS/Portafolio/assets/145722756/181597bf-5cb6-4ad6-929f-2b4fb9f4d913)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%2016.png)
+![Prueba de escritorio 16](https://github.com/ChristianDavSS/Portafolio/assets/145722756/716ad490-09a2-489c-ac15-5d96fb0c8c2e)
