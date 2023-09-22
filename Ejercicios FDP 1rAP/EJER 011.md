@@ -14,7 +14,7 @@ Este diagrama nos va a permitir realizar una suma de 5 numeros que esten dentro 
 4.- Una vez se cumpla el ciclo, se imprimirá en pantalla el resultado del acumulador, lo cual es la suma de todos los 5 numeros ingresados.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/sumaentre5y10%20EJ%2011.png)
+![sumaentre5y10 EJ 11](https://github.com/ChristianDavSS/Portafolio/assets/145722756/74f75b1c-5056-4f45-a3b5-8d01ffd04f75)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%2011.png)
+![Prueba de escritorio 11](https://github.com/ChristianDavSS/Portafolio/assets/145722756/3ee84b85-cc43-4097-a011-4922956e3e3a)
