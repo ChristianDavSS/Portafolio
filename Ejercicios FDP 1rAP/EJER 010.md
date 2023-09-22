@@ -7,10 +7,10 @@ ANALISIS:
 
 2.- Despues, se le restará a 2023 el año de nacimiento y a sumarle 1, ya que el enunciado especifica que es la edad del año siguiente por lo que se suma.
 
-3.- Una vez hecho el calculo, se imrpimirá en pantalla el resultado, el cual es la edad que la persona cumplira el año que viene.
+3.- Una vez hecho el calculo, se imprimirá en pantalla el resultado, el cual es la edad que la persona cumplira el año que viene.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/edadañosiguiente%20EJ%2010.png)
+![edadañosiguiente EJ 10](https://github.com/ChristianDavSS/Portafolio/assets/145722756/0e49655c-da97-4779-8878-4ad72bd65a91)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%2010.png)
+![Prueba de escritorio 10](https://github.com/ChristianDavSS/Portafolio/assets/145722756/c4351b3e-89a8-44eb-961e-32bdddc351fb)
