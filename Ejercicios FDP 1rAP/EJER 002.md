@@ -12,7 +12,7 @@ ANALISIS:
 4.- Imprimimos la edad de la persona en pantalla.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/añodenacimiento%20EJ%202.png)
+![añodenacimiento EJ 2](https://github.com/ChristianDavSS/Portafolio/assets/145722756/d57cd8d3-dfcb-4fc4-950c-aa62f9a0c8a2)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%202.png)
+![Prueba de escritorio 2](https://github.com/ChristianDavSS/Portafolio/assets/145722756/71093931-33c9-4798-8c03-40c8b1fb7bd5)
