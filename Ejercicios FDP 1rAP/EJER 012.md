@@ -18,7 +18,7 @@ Para este diagrama, vamos a hacer que calcule las percepciones con base al sueld
 6.- Una vez el contador no sea menor que la cantidad de empleados, entonces se imprimirá en pantalla la nomina a pagar (sp) y los impuestos (i1 y i2) de los trabajadores.
 
 # DIAGRAMA DE FLUJO
-![empresaimpuestos EJ 12](https://github.com/ChristianDavSS/Portafolio/assets/145722756/da96ac71-22fe-4d22-a601-784d137d5293)
+![empresaimpuestos EJ 12](https://github.com/ChristianDavSS/Portafolio/assets/145722756/db1d39d2-7259-424e-afe9-fc7bf83f47eb)
 
 # PRUEBA DE ESCRITORIO
 ![Prueba de escritorio 12](https://github.com/ChristianDavSS/Portafolio/assets/145722756/9e6b541f-c90c-4ea9-935f-dd1c2bc1b4cd)
