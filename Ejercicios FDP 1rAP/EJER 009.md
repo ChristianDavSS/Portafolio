@@ -18,7 +18,7 @@ Este dfd nos va a permitir ingresar la cantidad de numeros que queramos, y que e
 6.- Una vez la condicion no se cumpla, se imprimirá en pantalla el acumulador de los pares y el acumulador de los impares.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/sumacuadradosycubos%20EJ%209.png)
+![sumacuadradosycubos EJ 9](https://github.com/ChristianDavSS/Portafolio/assets/145722756/b9f452ff-d345-4d39-b893-2b321438c813)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%209.png)
+![Prueba de escritorio 9](https://github.com/ChristianDavSS/Portafolio/assets/145722756/a81718f3-b075-45b2-9e54-a6d46e2f3af1)
