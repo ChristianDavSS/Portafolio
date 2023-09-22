@@ -16,7 +16,7 @@ Vamos a crear un dfd que saque el promedio de los números que el usuario ingres
 5.- Se imprimirá en pantalla el promedio.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/promedio_n_numeros%20EJ%203.png)
+![promedio_n_numeros EJ 3](https://github.com/ChristianDavSS/Portafolio/assets/145722756/5ffca088-30aa-41ae-aa24-c9ea4de67c87)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%203.png)
+![Prueba de escritorio 3](https://github.com/ChristianDavSS/Portafolio/assets/145722756/bfb6b067-c108-49a4-a0c6-f0e5d1254015)
