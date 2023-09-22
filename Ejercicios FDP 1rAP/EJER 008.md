@@ -14,7 +14,7 @@ ANALISIS:
 5.- Una vez el contador no sea menor a la cantidad de numeros deseada, se nos imprimirá en pantalla el resultado final del acumulador.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/sumacuadradosn_numeros%20EJ%208.png)
+![sumacuadradosn_numeros EJ 8](https://github.com/ChristianDavSS/Portafolio/assets/145722756/1bb517fa-639d-48fb-ad1f-e9d04be1fa26)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%208.png)
+![Prueba de escritorio 8](https://github.com/ChristianDavSS/Portafolio/assets/145722756/37a9b214-ffcb-4093-8794-beb201f9d1bb)
