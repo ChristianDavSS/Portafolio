@@ -16,7 +16,7 @@ ANALISIS:
 6.- Imprimiremos en pantalla el resultado.
 
 # DIAGRAMA DE FLUJO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/en%20fotito/edad_n_personas%20EJ%204.png)
+![edad_n_personas EJ 4](https://github.com/ChristianDavSS/Portafolio/assets/145722756/c8ded894-a6b1-4591-a854-fe17024fee48)
 
 # PRUEBA DE ESCRITORIO
-![](file:///C:/Users/Sanch/OneDrive/Desktop/ICI%201°B/PORTAFOLIO%20FUNDAMENTOS/PRUEBAS%20PNG/Prueba%20de%20escritorio%204.png)
+![Prueba de escritorio 4](https://github.com/ChristianDavSS/Portafolio/assets/145722756/8d6c341f-42f3-4a90-a06f-d23456f507b9)
