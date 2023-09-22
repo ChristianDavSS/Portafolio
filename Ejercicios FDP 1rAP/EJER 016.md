@@ -7,7 +7,7 @@ Este diagrama de flujo calcula la cantidad de productos que Brankos vendió a ci
 
 1.- Primero, al ser n alumnos, debemos preguntar la cantidad y verificar que sean mas de 0.
 
-2.- Vamos a desplegar el menú que Branks tiene para ver que quiere ordenar el usuario, ya que ordene vamos a verificar que el numero sea mayor o igual a uno y menor o igual a 4, ya que son 4 productos.
+2.- Vamos a desplegar el menú que Brankos tiene para ver que quiere ordenar el usuario, ya que ordene vamos a verificar que el numero sea mayor o igual a uno y menor o igual a 4, ya que son 4 productos.
 
 3.- Vamos a desplegar un switch o match, en el que el valor que el usuario haya ingresado sea el camino que se tome para que se cuente el pedido. Cada camino tiene un contador integrado, ya que queremos llegar a la cantidad de ventas totales.
 
